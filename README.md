@@ -29,7 +29,7 @@
     - node.js must be installed
   
   ## API documentation
-  --> https://documenter.postman.com/preview/23406274-1690d524-1d50-4e40-bd5e-1040d8eb790d?environment=&versionTag=latest&apiName=CURRENT&version=latest&documentationLayout=classic-double-column&right-sidebar=303030&top-bar=FFFFFF&highlight=EF5B25
+  --> shorturl.at/EHKW4
   
   ##test Case 
   google sheet -https://docs.google.com/spreadsheets/d/1Vr2lVvpOMyZxTsIB9xbAfTrMsw_QEPdKGOqrhJKdFH4/edit#gid=375226724
